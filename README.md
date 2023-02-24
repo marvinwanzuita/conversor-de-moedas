@@ -3,10 +3,10 @@ Desafio Conversor de Moedas para o programa Oracle Next Education. <br>
 
 ## OBSERVAÇÃO
 
-Apesar do desafio solicitar que a interface do programa fosse feito com Swing, decidi criar um aplicativo em Java, <br>
-pois é o que estou estudando em paralelo aos cursos fornecidos pelo programa ONE. E para facilitar a avalição do desafio, <br>
+Apesar do desafio solicitar que a interface do programa fosse feito com Swing, decidi criar um aplicativo Android em Java, 
+pois é o que estou estudando em paralelo aos cursos fornecidos pelo programa ONE. Para facilitar a avalição do desafio,
 segue nesse [link](https://appetize.io/app/bojcyfwwbjv4v7cxjzbz3dyiqu?device=pixel4&osVersion=11.0&scale=75) um site que está emulando
-um android com a minha aplicação.
+um android com a minha aplicação. Ou caso seja necessário a visualização do código, este [link](https://github.com/marvinwanzuita/conversor-de-moedas/blob/main/app/src/main/java/com/mrvw/conversordemoeda/MainActivity.java) leva para o caminho onde o arquivo está.
 
 ## DESCRIÇÃO
 
